@@ -11,19 +11,19 @@ We have provided two files:
 The logic behind the code is to send the sample data over Fogwing
 IoTHub using UDP protocol.
 
-### Step:1
-#### Python & json file
+## Step:1
+### Python & json file
 * Copy all the files into your Rasberry Pi and 
   you are good to start ! You now finish with coding part.
   
-### Step:2
-#### Credentials
+## Step:2
+### Credentials
 * Change the **client_id** and **dev_eui** with your Fogwing IoTHub access
   credentials in **configuration.json file**.  
   
 
-### Step:3
-#### Run and Get Started with Fogwing IoT
+## Step:3
+### Run and Get Started with Fogwing IoT
 * Now run the file with the below command.
     ```
     python Fogwing_UDP_client_simulator.py
@@ -32,10 +32,10 @@ IoTHub using UDP protocol.
          you will be able to see a message that reads 'successfully published' in command line.
 
 ## Step:4
-#### Start analyzing your data at Fogwing Platform
+### Start analyzing your data at Fogwing Platform
 * Now you are ready to analyze your data at [Fogwing Platform](https://enterprise.fogwing.net/) portal,
   you can check all the data within the data storage in the portal.
   
- #### Getting help and finding Fogwing docs
+ ### Getting help and finding Fogwing docs
  * [Fogwing Platform Forum]()
  * [Fogwing Platform Docs](https://docs.fogwing.io/)
