@@ -38,5 +38,6 @@ IoTHub using UDP protocol.
   you can check all the data within the data storage in the portal.
   
  ### Getting help and finding Fogwing docs
- * [Fogwing Platform Forum]()
+ * [Fogwing Platform Forum](
+https://enterprise.fogwing.net/)
  * [Fogwing Platform Docs](https://docs.fogwing.io/)
