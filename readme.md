@@ -5,7 +5,7 @@ This directory provide two files that sends sample data over Fogwing IoTHub usin
 
 ## Fogwing IoT Simulation using UDP protocol
 We have provided two files:
-* [fwg_udp_simulator.py](https://github.com/factana/fogwing-simulator-for-udp/blob/master/Fogwing_UDP_client_simulator.py)
+* [fwg_udp_simulator.py](https://github.com/factana/fogwing-simulator-for-udp/blob/master/fwg_udp_simulator.py)
 * [configuration.json](https://github.com/factana/fogwing-simulator-for-udp/blob/master/configuration.json)
 
 The logic behind the code is to send the sample data over Fogwing
