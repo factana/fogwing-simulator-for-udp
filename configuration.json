@@ -1,25 +1,23 @@
 {
-   "serverCredential":
+   "server_cred":
    {
-     "hostAddress": "iothub.enterprise.fogwing.net",
+     "host": "iothub.enterprise.fogwing.net",
+     "EUI-ID": "Enter your Fogwing IoTHub dev_eui",
      "port": 5959
    },
-   "IoTHub_cred":
-   {
-     "client_id": "Enter your Fogwing IoTHub client_id",
-     "dev_eui": "Enter your Fogwing IoTHub dev_eui",
 
    "payload":
    {
-     "Temperature": 28,
-     "DO": 55,
-     "ORP": 1450,
-     "Turbidity": 45,
-     "pH": 8,
-     "Conductivity": 42.56,
-     "TDS": 800,
-     "battery_level": "85"
+
+     "Temperature": 19,
+     "DO": 97.65,
+     "ORP": 471,
+     "Turbidity": 450,
+     "pH": 7.5,
+     "Conductivity": 35,
+     "TDS": 425,
+     "battery_level": 65
    }
  }
 
-}
+

@@ -18,8 +18,9 @@ IoTHub using UDP protocol.
   
 ## Step:2
 ### Credentials
-* Change the **client_id** and **dev_eui** with your Fogwing IoTHub access
-  credentials in **configuration.json file**.  
+**Note:-** Do the following modification in **configuration.json** file.
+* Change the **dev_eui** with your Fogwing IoTHub access
+  credentials. 
   
 
 ## Step:3
