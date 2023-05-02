@@ -1,7 +1,7 @@
 {
    "server_cred":
    {
-     "host": "iothub.enterprise.fogwing.net",
+     "host": "iothub.fogwing.net",
      "EUI-ID": "Enter your Fogwing IoTHub dev_eui",
      "port": 5959
    },
